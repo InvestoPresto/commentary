@@ -1,0 +1,4 @@
+lsi: true
+paginate: 10
+url: 'http://investopresto.com'
+baseurl: '/blog'
