@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Market Commentary- June 19 2012
+published: true
 ---
 Today’s trading session was marked by heavy volatility as the markets see-sawed between green and red turf before finally settling on a positive note, buoyed by rumours that ECB would prop up Spanish government bonds after yields of Spanish 10 years government bonds rose above record levels.  Key benchmark indices corrected today in line with their global peers. The Nifty gained 0.78% to close at 5,103.85, up 39.60 points. Sensex posted gains of 153.97 points to close at 16,859.80, up 0.92%.
 
@@ -8,7 +9,7 @@ CNX Mid-cap index was up 0.39% while CNX Small-cap gained 0.38%.
 
 The market breadth was partially strong as 1,350 stocks gained in today’s session against 1,321 stocks that declined on BSE. A total of 135 stocks remained unchanged.
 
-The total turnover on the NSE was Rs 9080.63 crores while on the BSE it was Rs 1,766 crores. 
+The total turnover on the NSE was Rs 9080.63 crores while on the BSE it was Rs 1,766 crores.
 
 FIIs sold shares worth Rs 93.3 crores while DIIs were net sellers to the tune of Rs 278.7 crores.
 
@@ -48,13 +49,13 @@ Stock Specific News
 
 According to industry sources, BPCL has made its first payment for Iranian oil in rupees, becoming the first refiner to use a payment channel that skirts tightening Western sanctions on Iran's trade. Tehran and New Delhi agreed in January to settle 45% of the oil trade in rupees to ensure payments continue should any problem arise with the Halkbank (Turkey’s currency. Since December, 2010, India’s refiners have been using Halkbank to pay for their oil import bill), and also as a way to encourage more exports from India to Iran that could be settled in rupees. BPCL last received oil from Iran in January.
 
-ONGC Videsh Ltd, the overseas arm of state-owned ONGC, is looking at selling 50% stake in its Cuban offshore blocks to firms like Eni of Italy and Total of France. 
+ONGC Videsh Ltd, the overseas arm of state-owned ONGC, is looking at selling 50% stake in its Cuban offshore blocks to firms like Eni of Italy and Total of France.
 
 Sterlite Technologies has said that it has secured Rs 2,200 crores debt for two transmission projects, The Bhopal-Dhule Transmission Company Ltd and Japalpur Transmission Company Ltd. These projects would transmit power through a network of 2,200 kilometers of transmission lines and two sub-stations across the states of Maharashtra, Gujarat, Madhya Pradesh, Chhattisgarh, West Bengal, Bihar and Assam.
 
 The government has allocated 116 mines to Coal India for expansion to help it boost production capacity amid the PSU firm drawing flak for coal shortages across the country.
 
-Tata Motors has announced that it plans to invest Rs 2,000 crores in its commercial vehicle segment. 
+Tata Motors has announced that it plans to invest Rs 2,000 crores in its commercial vehicle segment.
 
 
 

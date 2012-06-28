@@ -1,13 +1,14 @@
 ---
 layout: post
 title: Economic Calendar-June 2012
+published: true
 ---
 
 The table below outlines the dates of important events that affect the India Markets.
 
 
 <!---abstract-->
-<table border="1" cellspacing="0" cellpadding="0" > 
+<table border="1" cellspacing="0" cellpadding="0" >
 <tbody>
 <tr>
 <td valign="top" ><b>Date</b></td>

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Market Commentary- June 12, 2012
+published: true
 ---
 
 Despite weak IIP number, markets rallied to fresh 5 week high on the back of expectation that the Reserve Bank of India would cut interest rates in its forthcoming mid-quarterly meeting that is scheduled for 18th June. The Nifty gained 61.80 points, up 1.22% to close at 5,115.90 while the Sensex posted gains of 194.79 points to close at 16,862.80, up 1.17%.
@@ -9,7 +10,7 @@ Both CNX Mid-cap index and CNX Small-cap underperformed as compared to NIFTY as 
 
 The market breadth was fairly positive as 1,361 stocks gained in today’s session against 1,312 stocks that declined. A total of 149 stocks remained unchanged.
 
-The total turnover on the NSE was Rs 9,477.04 crores while on the BSE it was Rs 1,956 crores. 
+The total turnover on the NSE was Rs 9,477.04 crores while on the BSE it was Rs 1,956 crores.
 
 FII were net sellers to the tune of Rs 56.6 crores while DII sold shares to the tune of 54.21 crores.
 
@@ -17,13 +18,13 @@ FII were net sellers to the tune of Rs 56.6 crores while DII sold shares to the 
 <!---abstract-->
 Indian Macro News
 --------------------
-Index of Industrial Production (IIP) revealed that Industrial output was up by 0.1% in April 2012 compared to 5.3% in April 2011 and -3.2% in March 2012. Out of the 22 groups comprising the manufacturing sector, which constitutes over 75% of the index, only 12 groups registered a positive growth rate. 
+Index of Industrial Production (IIP) revealed that Industrial output was up by 0.1% in April 2012 compared to 5.3% in April 2011 and -3.2% in March 2012. Out of the 22 groups comprising the manufacturing sector, which constitutes over 75% of the index, only 12 groups registered a positive growth rate.
 
-Poor IIP numbers have prompted calls for a rate cut by RBI when they are supposed to meet to June 18. SBI expects that RBI will cut Cash Reserve Ratio (the percent banks need to hold with RBI) by 1%. 
+Poor IIP numbers have prompted calls for a rate cut by RBI when they are supposed to meet to June 18. SBI expects that RBI will cut Cash Reserve Ratio (the percent banks need to hold with RBI) by 1%.
 
 Standard and Poor’s said that the slowdown in India’s economic growth could lead to an increase in bad loans for banks.
 
-On the other hand, hiring activity is growing steadily in spite of slow economic growth. The Naukri Job Speak Index is up by 10% from the previous year (May). 
+On the other hand, hiring activity is growing steadily in spite of slow economic growth. The Naukri Job Speak Index is up by 10% from the previous year (May).
 
 In banking, the Finance Ministry is working on developing new policies and a clear framework to help regional and rural banks move to the next level. While the RBI has already defined licensing rules for banks, it is waiting for changes in banking laws and parliamentary approvals.
 
@@ -34,7 +35,7 @@ CNX PSU Bank (up 2.43%), CNX Realty (up 2.02%), CNX Auto (up 1.76%), Bank NIFTY 
 
 Interest rate sensitive sectors like banks, realty and auto all rose on hopes that RBI will announce a cut in interest rates in its forthcoming meeting on 18th June, 2012.  Amongst banking counters, Allahabad Bank was the largest gainer rising 5.54%. Other banks like Axis Bank, SBI and Yes Bank rose between 1.50% - 2.04%. Realty stocks like DLF, Unitech, HDIL and Godrej Property rose anywhere between 3.03% – 4.26%.
 
-Reports suggest that Oil Marketing Companies (OMCs) might reduce the price of petrol further by another Rs 2.00 after slashing it by Rs 2.02 a few days back.   Shares of BPCL (up 2.68%) and HPCL (up 0.36%) traded in green while those of IOC (down 0.28%) fell partially. 
+Reports suggest that Oil Marketing Companies (OMCs) might reduce the price of petrol further by another Rs 2.00 after slashing it by Rs 2.02 a few days back.   Shares of BPCL (up 2.68%) and HPCL (up 0.36%) traded in green while those of IOC (down 0.28%) fell partially.
 
 Airlines stocks rallied on back of falling crude prices. Share of Spicejet, Jet Airways and Kingfisher Airlines rose between 3.62% - 7.60%. Crude is the biggest expenditure that airlines incur. The falling crude spells good news for OMCs too as it would help them curb under recoveries that they incur by selling diesel and LPG at subsidised cost.
 
@@ -64,9 +65,9 @@ The Eurozone crisis has also affected UK’s manufacturing sector. The manufactu
 
 Gold and other metals also dropped on concerns of Greek’s exit from the Eurozone and weak US economic data.
 
-Asian markets- China (SSE Composite down by 0.7%), Hong Kong (Hang Seng down by 0.43%), Japan-Nikkei down by 1.02%) are also down because of the Eurozone crisis and doubts about the efficacy of the Spanish bailout plan. 
+Asian markets- China (SSE Composite down by 0.7%), Hong Kong (Hang Seng down by 0.43%), Japan-Nikkei down by 1.02%) are also down because of the Eurozone crisis and doubts about the efficacy of the Spanish bailout plan.
 
 
-  
-  
-    
+
+
+

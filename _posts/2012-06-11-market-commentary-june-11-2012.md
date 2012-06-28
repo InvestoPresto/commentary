@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Market Commentary- June 11, 2012
+published: true
 ---
 
 Markets ended their 5 days rally on back of S&P’s warning that India could lose its investment grade status because of the worsening economic conditions. Nifty decreased 14.25 points, down 0.28% to close at 5,054.10 while Sensex posted losses of 50.86 points to close at 16,668.01, down 0.30%.
@@ -8,7 +9,7 @@ Markets ended their 5 days rally on back of S&P’s warning that India could los
 The CNX Mid-cap index shed 0.30% and CNX Small-cap ended 0.11% lower.
 The market breadth was fairly positive as 1,447 stocks gained in today’s session against 1,260 stocks that declined. A total of 144 stocks remained unchanged.
 
-The total turnover on the NSE was Rs. 9,620.09 crores while on the BSE it was Rs. 1,938 crores. 
+The total turnover on the NSE was Rs. 9,620.09 crores while on the BSE it was Rs. 1,938 crores.
 
 FII were net buyers to the tune of Rs 130.38 crores while DII were net sellers to the tune of 214.66 crores.
 
@@ -30,7 +31,7 @@ The governments of Madhya Pradesh, Chhattisgarh and Tamil Nadu say that the info
 
 In an effort to boost the slowing economy, last week, Prime Minister, Dr. Manmohan Singh announced a big push for the infrastructure sector. Some key highlights of the announcement were as following:
 
-• **Roadways**: The government plans to award 9,500 kilometres of roads for construction this year and over 4,000 kms for maintenance under the new system. 
+• **Roadways**: The government plans to award 9,500 kilometres of roads for construction this year and over 4,000 kms for maintenance under the new system.
 
 • **Railways**: The government plans to award work on the Elevated Rail Corridor in Mumbai, two new Loco manufacturing units and the public private partnership (PPP) stretch of the Dedicated Freight Corridor. It also plans to redevelop 4 or 5 stations through PPP mode in the current year.
 
@@ -55,7 +56,7 @@ Shares of Tata Motors and Mahindra & Mahindra fell on concerns of Oil Ministry�
 
 Stock Specific News
 --------------------
-In its efforts to brave the problem of power shortage and meet rising domestic demand, Coal India Chariman, Mr. Narsing Rao said today that his company plans to import up to 30 million metric tons of coal this fiscal year. Mr. Rao further said the company plans to lower its coal sales through electronic auctions by 3.9% on year to about 50 million tons, to comply with government directives to trim such lucrative sales over the next five years and make more coal available to the power sector. 
+In its efforts to brave the problem of power shortage and meet rising domestic demand, Coal India Chariman, Mr. Narsing Rao said today that his company plans to import up to 30 million metric tons of coal this fiscal year. Mr. Rao further said the company plans to lower its coal sales through electronic auctions by 3.9% on year to about 50 million tons, to comply with government directives to trim such lucrative sales over the next five years and make more coal available to the power sector.
 
 Coal India, which sells more than 80% of the coal consumed in the country, is attempting to enhance output at its mines to narrow the domestic shortfall, currently estimated at more than 100 million tons. However the company has been facing delays in obtaining environmental clearances for expansion projects and land acquisition problems. More than half of India's 201 gigawatts of power-generation capacity is coal-fueled, as is most of country's new capacity.
 
@@ -64,7 +65,7 @@ In a BSE filing, heavy vehicles manufacturer, Ashok Leyland said that the compan
 
 On Friday, State Bank of India announced a revision in its Retail Term Deposit interest rates. The banks have reduced rates by 0.25% in tenors up to 240 days with effect from June 08, 2012. Shares of the bank which hit intra-day high of Rs 2,217.90 ended 0.67% down to close at Rs 2,164.80.
 
-Shares of Videocon and BPCL jumped by 3.21% and 1.27% after announcing a gas find in Mozambique.  The gas discoveries may hold up to 100 trillion cubic feet (Tcf) of in-place reserves.  US energy major Anadarko Petroleum Corp said the total estimated recoverable natural gas resource in Offshore Area 1 was between "30 and 60 Tcf, and the current upside for total gas in place for the discovered reservoirs on the block is approaching 100 Tcf. Videocon and BPCL, have a stake of 10% stake each in the field. 
+Shares of Videocon and BPCL jumped by 3.21% and 1.27% after announcing a gas find in Mozambique.  The gas discoveries may hold up to 100 trillion cubic feet (Tcf) of in-place reserves.  US energy major Anadarko Petroleum Corp said the total estimated recoverable natural gas resource in Offshore Area 1 was between "30 and 60 Tcf, and the current upside for total gas in place for the discovered reservoirs on the block is approaching 100 Tcf. Videocon and BPCL, have a stake of 10% stake each in the field.
 
 On Saturday, Jindal Steel Bolivia, an arm of Jindal Steel & Power, said it may abandon its investment plan of USD 2.1 billion (around Rs 11,550 crores) in Bolivia for setting up a steel plant due to non-fulfilment of contractual obligations by the South American country. Shares of Jindal Steel and Power fell by 1.75% to close at Rs 432.00.
 
@@ -74,7 +75,7 @@ UK’s FTSE, France’s CAC 40 and Germany’s DAX were up by 0.96% to 1.83%. Eu
 
 Key benchmark indices across Asia also rose by between 1.07% - 2.44% on the back of Spain’s announcement.
 
-While Europe continues to be hit by debt issues, the latest OECD report states that emerging economies India and China are slowing down. OECD’s Composite Leading indicator (CLI), designed to anticipate turning points in economic activity for China dropped from 99.4 to 99.1 in April. The CLI for India also showed signs of weakening, dropping marginally from 98.2 to 98. The long-term average value for India and China is 100. 
+While Europe continues to be hit by debt issues, the latest OECD report states that emerging economies India and China are slowing down. OECD’s Composite Leading indicator (CLI), designed to anticipate turning points in economic activity for China dropped from 99.4 to 99.1 in April. The CLI for India also showed signs of weakening, dropping marginally from 98.2 to 98. The long-term average value for India and China is 100.
 
 Inspite of eurozone’s debt problems the CLI for the Eurozone remained stable. France’s CLI remained stable but Italy dropped from 99.2 to 99.1
 

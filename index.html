@@ -4,17 +4,19 @@ title: Blog
 
 <div class= "postarea">
 {% for post in paginator.posts %}
-  <!-- here add you post markup -->
-  <article>
-    <h1><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></h1>
-    <p class="author">
-      <span class="date">{{ post.date | date_to_long_string }}</span>
-    </p>
-    <div class="content">
-      {{ post.content | split:'<!---abstract-->' | first }}
-    </div>
-    <p class='readmore'><a href="{{site.baseurl}}{{ post.url }}">Read more ...</a></p>
-  </article>
+  {% if post.published %}
+    <!-- here add you post markup -->
+    <article>
+      <h1><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></h1>
+      <p class="author">
+        <span class="date">{{ post.date | date_to_long_string }}</span>
+      </p>
+      <div class="content">
+        {{ post.content | split:'<!---abstract-->' | first }}
+      </div>
+      <p class='readmore'><a href="{{site.baseurl}}{{ post.url }}">Read more ...</a></p>
+    </article>
+  {% endif %}
 {% endfor %}
 
 <!-- Pagination links -->
