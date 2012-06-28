@@ -13,9 +13,6 @@ The short term outlook for the banking sector remains weak due to overall macroe
 2. S&P and Fitch’s recent downgrades of India’s sovereign ratings followed by their downgrades of several Indian banks are negative developments for this sector. The threat of India losing its investment grade status is very real and if that happens, banking stocks among others will take a severe beating due to investors fleeing the Indian markets to safe havens like gold/US$.
 
 3. Falling GDP growth, a very weak rupee and global economic uncertainty (mainly in Europe) are all big negatives.
-
-<!---abstract-->
-
 Short term recommendations
 ===========================
 The overall weakness in the markets is likely to overshadow the fundamentals in the short run. The falling rupee is not going to encourage foreign investors as their dollar returns would be adversely impacted by the exchange rate that seems to be going down the drain. Any further downgrades are going to spell short term doom for the Indian markets. All these factors having been taken into account, our short term recommendations for stocks in the banking sector are as follows:

@@ -2,37 +2,37 @@
 title: Blog
 ---
 
-<div class= "postarea">
-{% for post in paginator.posts %}
-  {% if post.published %}
-    <!-- here add you post markup -->
-    <article>
-      <h1><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></h1>
-      <p class="author">
-        <span class="date">{{ post.date | date_to_long_string }}</span>
-      </p>
-      <div class="content">
-        {{ post.content | split:'<!---abstract-->' | first }}
-      </div>
-      <p class='readmore'><a href="{{site.baseurl}}{{ post.url }}">Read more ...</a></p>
-    </article>
-  {% endif %}
-{% endfor %}
+<div class="postarea">
+  {% for post in paginator.posts %}
+    {% if post.published %}
+      <!-- here add your post markup -->
+      <article>
+        <h1><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></h1>
+        <p class="author">
+          <span class="date">{{ post.date | date_to_long_string }}</span>
+        </p>
+        <div class="content">
+          {{ post.content | split:'<!---abstract-->' | first }}
+        </div>
+        <p class='readmore'><a href="{{site.baseurl}}{{ post.url }}">Read more ...</a></p>
+      </article>
+    {% endif %}
+  {% endfor %}
 
-<!-- Pagination links -->
-<div class="pagination">
-  {% if paginator.previous_page %}
-    <a href="{{site.baseurl}}{{paginator.previous_page}}" class="previous">Previous</a>
-  {% else %}
-    <span class="previous">Previous</span>
-  {% endif %}
-  <span class="page_number ">Page: {{paginator.page}} of {{paginator.total_pages}}</span>
-  {% if paginator.next_page %}
-    <a href="{{site.baseurl}}{{paginator.next_page}}" class="next ">Next</a>
-  {% else %}
-    <span class="next ">Next</span>
-  {% endif %}
-</div>
+  <!-- Pagination links -->
+  <div class="pagination">
+    {% if paginator.previous_page %}
+      <a href="{{site.baseurl}}{{paginator.previous_page}}" class="previous">Previous</a>
+    {% else %}
+      <span class="previous">Previous</span>
+    {% endif %}
+    <span class="page_number ">Page: {{paginator.page}} of {{paginator.total_pages}}</span>
+    {% if paginator.next_page %}
+      <a href="{{site.baseurl}}{{paginator.next_page}}" class="next ">Next</a>
+    {% else %}
+      <span class="next ">Next</span>
+    {% endif %}
+  </div>
 </div>
 <div class= "extracontent">
    <div class= "takeaway">
