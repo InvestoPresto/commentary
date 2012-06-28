@@ -5,7 +5,7 @@ published: true
 ---
 
 Short Term Outlook
-===================
+-------------------
 The short term outlook for the banking sector remains weak due to overall macroeconomic weakness, high interest rates and falling investor confidence.
 
 1. RBI unexpectedly kept rates constant during its last midterm policy citing high inflation among other reasons. This is a negative for rate sensitive sectors such as banking.
@@ -17,7 +17,7 @@ The short term outlook for the banking sector remains weak due to overall macroe
 <!---abstract-->
 
 Short term recommendations
-===========================
+---------------------------
 The overall weakness in the markets is likely to overshadow the fundamentals in the short run. The falling rupee is not going to encourage foreign investors as their dollar returns would be adversely impacted by the exchange rate that seems to be going down the drain. Any further downgrades are going to spell short term doom for the Indian markets. All these factors having been taken into account, our short term recommendations for stocks in the banking sector are as follows:
 
 <table border="1" cellspacing="0" cellpadding="0" width="100%" >
@@ -57,7 +57,7 @@ The overall weakness in the markets is likely to overshadow the fundamentals in 
 
 
 Long Term Outlook
-=====================
+---------------------
 Barring substantial deterioration in the economic scenario, political crises or a drastic slowdown in the global economy, we feel that the long term outlook for the banking sector is promising.
 
 We can’t say when it will happen, but policy paralysis will have to inevitably end someday. Attractive valuations will bring back investors some day; later if not sooner.  India’s seemingly lame government policies can choke investment in the short term but cannot hold it off forever. Widespread criticism from business leaders, the opposition and the common man will take effect someday if not today. No government can afford to anger its businessmen forever. Reforms will be undertaken eventually; attractive valuations will bring back investors and stock prices will eventually go up.
@@ -65,7 +65,7 @@ We can’t say when it will happen, but policy paralysis will have to inevitably
 Over the course of the next 1-2 years, we expect the interest rates to come down substantially. In fact, we are most likely done with the worst part of the interest rate cycle. A falling rupee will help exporters
 
 Fundamentals
-================
+----------------
 Asset Quality
 --------------
 
@@ -399,7 +399,7 @@ Axis Bank has taken a beating and is trading at about 12 times trailing earnings
 
 ![Chart of P/E ratios of leading Indian banks (TTM)](https://lh5.googleusercontent.com/cDy60Bz-TDLKJAiebFM78t544QnvhjlzM67mQE4T6lExp16wNMyuJ2Bu81uf2mOnj2CFaNkVVEW7DSE)
 Long term recommendations
-=========================
+-------------------------
 Buy recommendations for Axis Bank and Yes Bank.
 -----------------------------------------------
 Overall, we feel that Axis Bank and Yes Bank are the most attractive among the well-known banks. Yes Bank probably has the best potential for growth and is fairly valued. Axis Bank is attractively valued at a 36.89% discount to its average P/E(trailing 12 months) over the last three and a half years. It has the potential to catch up with ICICI Bank and HDFC Bank in terms of size, in the long term. Both banks (Yes Bank and Axis Bank) seem to have excellent asset quality (0.22% and 1.06% gross NPA/advances) and growth history (36.85% and 57.9% 4 year CAGR in EPS). It is for these reasons that we are bullish on these 2 banks and rate them as “Buy”s. The only concerns for these banks are capitalization (for Axis Bank) and low CASA ratio (for Yes Bank). However, we think that these problems will be addressed in the long run.
@@ -462,5 +462,5 @@ We are not bullish on SBI due to its low asset quality, low profit growth over t
 </table>
 
 Terms of use
-=============
+-------------
 This report is intended for use by the recipients only and may not be distributed/circulated. The numbers/figures used in this report are sourced from publicly available sources which we considered to be accurate and/or reliable. Adjustments are made to numbers or figures, where deemed appropriate.  Investopresto, its analysts, management, shareholders, affiliates are not responsible for any discrepancies/errors in any of the numbers/figures/information contained in this report. Investopresto, its analysts, management, shareholders and/or affiliates do not guarantee the accuracy, completeness or timeliness of any information contained in this report. Further, the contents of this report, including any recommendations are the opinions of the analysts who have prepared this report. The suitability of any of the investments mentioned in this report must be assessed by the investor in the context of his/her needs and his/her overall portfolio. The investor must consult a qualified/licensed financial advisor before making any investment decisions. Investopresto, its analysts, management, shareholders and/or affiliates will not be responsible or liable for the results of any investment decisions made after reading this report. This is not an offer or solicitation to buy/sell securities and should not be treated as such.  Investopresto, its analysts/shareholders/management may have existing positions and/or may take new positions in some/all of the securities mentioned in this report.

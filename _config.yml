@@ -1,4 +1,6 @@
-lsi: true
+lsi: false
+safe: true
+pygments: true
 paginate: 10
 url: 'http://investopresto.com'
 baseurl: '/blog'
