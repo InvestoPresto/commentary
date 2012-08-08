@@ -1,12 +1,9 @@
 ---
-layout: default
-published: false
----
-
----
+published: true
 layout: post
 title: Large Cap IT Stocks
 ---
+
 Short Term Outlook
 --------------------
 The short term outlook for the IT industry seems shaky mainly due to the prevailing global economic uncertainty. USA and Europe are the main markets for India’s IT companies and a further slowdown in these economies are likely to lead to cuts in the IT budgets of companies, thereby affecting revenues of IT companies in India. Apart from lower revenues, margins too may be affected by a further slowdown in the global economy leading to lower earnings.
@@ -16,22 +13,7 @@ The short term outlook for the IT industry seems shaky mainly due to the prevail
 We believe that banking and IT are the best sectors to be in at the moment, given the strong fundamentals of the sectors. However from an absolute return perspective, this may not be the best time to enter the market due to the overall weak market sentiment exacerbated by uncertainties in government policy and taxation. Therefore, unless there is a broad based market rally on improved market sentiment, there is no reason to believe that this sector is going to give investors positive returns in the short term.
 
 Short Term Recommendations
----
-
----
-layout: post
-title: Large Cap IT Stocks
----
-Short Term Outlook
---------------------
-The short term outlook for the IT industry seems shaky mainly due to the prevailing global economic uncertainty. USA and Europe are the main markets for India’s IT companies and a further slowdown in these economies are likely to lead to cuts in the IT budgets of companies, thereby affecting revenues of IT companies in India. Apart from lower revenues, margins too may be affected by a further slowdown in the global economy leading to lower earnings.
-
-<!---abstract-->
-
-We believe that banking and IT are the best sectors to be in at the moment, given the strong fundamentals of the sectors. However from an absolute return perspective, this may not be the best time to enter the market due to the overall weak market sentiment exacerbated by uncertainties in government policy and taxation. Therefore, unless there is a broad based market rally on improved market sentiment, there is no reason to believe that this sector is going to give investors positive returns in the short term.
-
-Short Term Recommendations
-----------------------------
+-------------------------
 
 Apart from a weak rupee which is a strong positive for exporters like IT companies, there is nothing to cheer about on the fundamental front. Therefore, we advise caution while investing in this sector.  TCS has shown exceptional resilience in an extremely tough business environment and beat analyst expectations on the earnings front last quarter. 
 
