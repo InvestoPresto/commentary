@@ -4,7 +4,6 @@ layout: post
 title: Investment Tip # 001
 ---
 
-
 While investing in a stock, check out for trends in promoter holding. If the promoter holding has been increasing constantly, it is a positive sign. In case it has been decreasing constantly it is a cause of concern.
 
 <!---abstract-->
@@ -12,7 +11,7 @@ While investing in a stock, check out for trends in promoter holding. If the pro
 Did you know: As per BSE stock filings, the original promoter group of Satyam continuously reduced their stake in the company from March 2001 up till December 2008, just before the scam broke out? Out of the last 31 quarters following up to the revelation of the scam, the promoter had sold a part of their stake in 28 quarters and on 2 quarters there was no change in stake. Their stake had reduced from 25.60% in March 2001 to 2.18% in December 2008.
 
 
-![Satyam Promoter and Promoter Group Holding] (https://lh4.googleusercontent.com/vAg3MNSWnPrHk4igKlPUWnzdeoR9l5PK6LawnDedUPpw9BjtItb3a-qu1msx12x2RWatlFoe4Ko)
+![Satyam Promoter and Promoter Group Holding] (https://lh6.googleusercontent.com/-15mvGatAq0Y/UCIAvhVxQxI/AAAAAAAAACI/kqJmr9LRiPw/s800/satyam.png)
 
 <table border="1" cellspacing="0" cellpadding="0" width="100%" > 
 <tbody>
