@@ -1,10 +1,16 @@
-<div class= "postarea span8">
-<article>
- <h1><a>{{ page.title }}</a></h1>
- <p class="author">
-  <span class="date">{{ page.date | date_to_long_string }}</span>
- </p>
- <section>{{ content }}</section>
-</article>
+<div class= "row">
+  <div class= "span8">
+	<div class= "postarea">
+	<article>
+ 	  <h1><a>{{ page.title }}</a></h1>
+ 	  <p class="author">
+        <span class="date">{{ page.date | date_to_long_string }}</span>
+      </p>
+      <section>{{ content }}</section>
+    </article>
+    </div>
+  </div>
+  <div class= "span4">
+  </div>
 </div>
 
