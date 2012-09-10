@@ -9,9 +9,9 @@ title: Blog
         <!-- here add your post markup -->
         <article>
           <h1><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></h1>
-          <p class="author">
+          <div class="author">
             <span class="date">{{ post.date | date_to_long_string }}</span>
-          </p>
+          </div>
           <div class="content">
             {{ post.content | split:'<!---abstract-->' | first }}
           </div>

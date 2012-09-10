@@ -13,7 +13,7 @@ Did you know: As per BSE stock filings, the original promoter group of Satyam co
 
 ![Satyam Promoter and Promoter Group Holding] (https://lh6.googleusercontent.com/-15mvGatAq0Y/UCIAvhVxQxI/AAAAAAAAACI/kqJmr9LRiPw/s800/satyam.png)
 
-<table class="table table-striped table-bordered"> 
+<table class="table table-striped table-bordered">
 <tbody>
 <tr>
 <td width="11%" nowrap="" valign="bottom" ></td>
