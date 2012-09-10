@@ -1,17 +1,13 @@
 <div class= "row">
   <div class= "span9">
-    <div class="row-fluid">
-      <div class="span12 well-border">
-        <div class= "postarea">
-        <article>
-          <h1><a>{{ page.title }}</a></h1>
-          <p class="author">
-              <span class="date">{{ page.date | date_to_long_string }}</span>
-            </p>
-            <section>{{ content }}</section>
-          </article>
-        </div>
-      </div>
+    <div class= "postarea">
+    <article>
+      <h1><a>{{ page.title }}</a></h1>
+      <p class="author">
+          <span class="date">{{ page.date | date_to_long_string }}</span>
+        </p>
+        <section>{{ content }}</section>
+      </article>
     </div>
   </div>
   <div class= "span3">
