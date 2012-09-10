@@ -1,13 +1,17 @@
 <div class= "row">
   <div class= "span9">
-	<div class= "postarea">
-	<article>
- 	  <h1><a>{{ page.title }}</a></h1>
- 	  <p class="author">
-        <span class="date">{{ page.date | date_to_long_string }}</span>
-      </p>
-      <section>{{ content }}</section>
-    </article>
+    <div class="row-fluid">
+      <div class="span12 well-border">
+        <div class= "postarea">
+        <article>
+          <h1><a>{{ page.title }}</a></h1>
+          <p class="author">
+              <span class="date">{{ page.date | date_to_long_string }}</span>
+            </p>
+            <section>{{ content }}</section>
+          </article>
+        </div>
+      </div>
     </div>
   </div>
   <div class= "span3">
@@ -40,7 +44,7 @@
         <div class= "thumb">
           <h5>
             Social Features
-            %small Coming Soon
+            <small> Coming Soon</small>
           </h5>
           <p> Connect with the kings of investing and learn how to make profitable investments.If you are a king yourself, build a kingdom of followers.</P>
         </div>
