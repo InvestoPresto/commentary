@@ -20,7 +20,7 @@ Short term recommendations
 ---------------------------
 The overall weakness in the markets is likely to overshadow the fundamentals in the short run. The falling rupee is not going to encourage foreign investors as their dollar returns would be adversely impacted by the exchange rate that seems to be going down the drain. Any further downgrades are going to spell short term doom for the Indian markets. All these factors having been taken into account, our short term recommendations for stocks in the banking sector are as follows:
 
-<table border="1" cellspacing="0" cellpadding="0" width="100%" >
+<table class="table table-striped table-bordered">
 <tbody>
 <tr>
 <td width="38%" nowrap="" ><b>Stock</b></td>
@@ -75,7 +75,7 @@ The large banks also seem well capitalized barring SBI. Notice overall Capital a
 
  On this front, Axis Bank and Yes Bank score very well, with the lowest Gross NPA/Advances ratios. However, we feel that SBI and Axis Bank need to improve their CARs to give more confidence to investors. But that being said, Axis Bank has very low NPAs and that, to some extent, can justify their CAR of 13.66%.
 
-<table border="1" cellspacing="0" cellpadding="0" width="100%" >
+<table class="table table-striped table-bordered" >
 <tbody>
 <tr>
 <td width="28%" nowrap="" ><b>Metric</b></td>
@@ -139,7 +139,7 @@ Growth
 
 Yes Bank, being a small bank has shown fantastic growth over the last few years. It remains our top pick mainly for this reason. All major banks have shown good growth in top line as well as bottom line numbers. SBI has disappointed in terms of 4 year growth in EPS though it is not entirely fair to compare private banks with PSU banks. Axis Bank has impressed with an extraordinary 36.85% EPS growth p.a. over the last 4 years.  ICICI Bank has grown fairly well.
 
-<table border="1" cellspacing="0" cellpadding="0" width="100%" >
+<table class="table table-striped table-bordered" >
 <tbody>
 <tr>
 <td width="28%" nowrap="" valign="bottom" ><b>Metric </b></td>
@@ -236,7 +236,7 @@ Yes Bank, being a small bank has shown fantastic growth over the last few years.
 
 SBI has an excellent branch network with over 14,000 branches. We feel that Axis Bank has potential to grow substantially over the next few years as it is small and has been targeting retail clients. Axis Bank’s branch network is not as well developed as ICICI Bank’s or HDFC Bank’s. However, it has been growing fairly well over the last 1 year. HDFC Bank has been growing its branch network at a strong 28% p.a.
 
-<table border="1" cellspacing="0" cellpadding="0" width="100%" >
+<table class="table table-striped table-bordered" >
 <tbody>
 <tr>
 <td width="22%" nowrap="" valign="bottom" ><b><i>Network</i></b></td>
@@ -273,7 +273,7 @@ Profitability
 
 The top private banks seem to be fairly profitable with HDFC Bank ruling the roost on this front. Driven by the highest net interest margin and CASA ratio, HDFC Bank is the best among the lot when it comes to profitability. All the major banks being considered here have healthy CASA ratios and NIMs. Yes Bank has a very low CASA ratio and a corresponding NIM. However, we feel that NIMs will improve as Yes Bank grows its CASA ratio and gains access to cheap funds via this channel. Savings rate deregulation will help it substantially as it now offers 6% interest on savings accounts.
 
-<table border="1" cellspacing="0" cellpadding="0" width="100%" >
+<table class="table table-striped table-bordered" >
 <tbody>
 <tr>
 <td width="22%" nowrap="" valign="bottom" ><b>Metric</b></td>
@@ -329,7 +329,7 @@ All banks seem to be trading at attractive valuations when measured by their tra
 
 Axis Bank has taken a beating and is trading at about 12 times trailing earnings, a far cry from the 30+ multiples it commanded towards the end of 2010. This deflation in P/E does not seem to be accompanied by any fundamental weaknesses specific to the bank but seems to be a result of the overall weakness in the economy. ICICI and Yes Bank look attractive on the valuation front, trading at 15 times and 12 times trailing earnings. SBI is trading at about 12 times trailing earnings, slightly higher than its historic average earnings multiple of about 11.
 
-<table border="1" cellspacing="0" cellpadding="0" width="100%" >
+<table class="table table-striped table-bordered" >
 <tbody>
 <tr>
 <td width="28%" nowrap="" valign="bottom" ><b>Metric</b></td>
@@ -414,7 +414,7 @@ Sell recommendation on SBI
 ---------------------------
 We are not bullish on SBI due to its low asset quality, low profit growth over the last few years and its current valuation (12.48 times trailing earnings).
 
-<table border="1" cellspacing="0" cellpadding="0" width="100%" >
+<table class="table table-striped table-bordered" >
 <tbody>
 <tr>
 <td width="13%" nowrap="" valign="bottom" ><b>Company</b></td>

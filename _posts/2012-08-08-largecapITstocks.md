@@ -22,7 +22,7 @@ The same cannot be said about Infosys or Wipro. Infosys has taken quite a beatin
 Wipro’s most recent results met analyst expectations but poor earnings growth and low profitability are the reasons we don’t like this stock. The stock lost over 14% this month. There may be some room for a small upside driven by bargain hunters despite the poor fundamentals. However, we feel that any deterioration in the global economic scenario or a further weakening in market sentiment is likely to hit the stock hard.
 
 
-<table border="1" cellspacing="0" cellpadding="0" width="100%" > 
+<table class="table table-striped table-bordered" >
 <tbody>
 <tr>
 <td width="32%" nowrap="" valign="bottom" ><b>Stock</b></td>

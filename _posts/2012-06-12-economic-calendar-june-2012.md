@@ -8,7 +8,7 @@ The table below outlines the dates of important events that affect the India Mar
 
 
 <!---abstract-->
-<table border="1" cellspacing="0" cellpadding="0" >
+<table class="table table-striped table-bordered" >
 <tbody>
 <tr>
 <td valign="top" ><b>Date</b></td>
