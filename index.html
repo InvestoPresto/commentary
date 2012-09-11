@@ -10,7 +10,7 @@ title: Blog
         <article>
           <h1 style="line-height: 16px;"><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></h1>
           <p class="author">
-            <span class="date">{{ post.date | date_to_long_string }}</span>
+            <span class="date" style = "text-transform: uppercase">{{ post.date | date_to_long_string }}</span>
           </p>
           <div class="content">
             {{ post.content | split:'<!---abstract-->' | first }}
