@@ -3,7 +3,7 @@ layout: default
 published: true
 ---
 
-title:King Of Good Times Is Soaring High
+title:King of Good Times Is Soaring High
 layout:post
 Vijay Mallya, the Chairman of the debt ridden Kingfisher Airlines, today confirmed that his airline is in talks with foreign airlines (names undisclosed) to sell a stake to them. The move follows the central government’s decision to allow FDI in aviation, announced on September 14th, 2012.
 <!---abstract-->
