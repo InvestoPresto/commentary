@@ -1,12 +1,9 @@
 ---
-layout: default
-published: true
----
-
 layout: post
 title: King of good Times is soaring high 
 published: true
 ---
+
 Vijay Mallya, the Chairman of the debt ridden Kingfisher Airlines, today confirmed that his airline is in talks with foreign airlines (names undisclosed) to sell a stake to them. The move follows the central government’s decision to allow FDI in aviation, announced on September 14th, 2012.
 <!---abstract-->
 Post the announcement, the share price of Kingfisher Airlines soared to Rs 15.70 up 9.03% from yesterday’s close.
