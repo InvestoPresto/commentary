@@ -1,10 +1,11 @@
 ---
 layout: post
 title: India likely to grow between 5.5%- 6.5% in FY 13, says Rajan
-published:true
 
 Raghuram Rajan, the Chief Economic Advisor of India, has said that India’s GDP is likely to grow between 5.5-6.5% in this fiscal year. He added that the slow pace of current investment would mean that recovery would be slower than expected.
+
 <!---abstract-->
+
 published: true
 ---
 
