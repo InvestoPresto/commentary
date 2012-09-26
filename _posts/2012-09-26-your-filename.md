@@ -1,8 +1,3 @@
----
-layout: default
-published: false
----
-
 # How does it work?
 
 layout: post
