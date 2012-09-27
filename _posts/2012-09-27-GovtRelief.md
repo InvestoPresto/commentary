@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Government breathes a sigh of relief
-published:true
+published: true
 ---
 Today, the government got a much needed relief from the Supreme Court, regarding its
 earlier ruling on the allocation of natural resources. The Supreme Court while upholding its earlier judgement of cancelling 122 2G licences, reversed its earlier stand that all natural resources should be auctioned. Instead it ruled that public good must supersede revenue maximization.
