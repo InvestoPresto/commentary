@@ -8,7 +8,7 @@ earlier ruling on the allocation of natural resources. The Supreme Court while u
 
 <!---abstract-->
 
-published: true
+
 ---
 
 On 2nd February of this year, the court while cancelling the 2G licences had said that all natural resources should be allocated through public auction. In this regard, the Government had sought a clarification via a presidential review, sighting encroachment of parliamentary authority.
